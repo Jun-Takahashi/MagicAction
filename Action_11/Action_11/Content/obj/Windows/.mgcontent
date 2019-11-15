@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ShyotaTanaka/Desktop/Action_11/Action_11/Content/Block.png</File>
+    <File>C:/Users/ShyotaTanaka/Desktop/Action_11/Action_11/Content/player.png</File>
+    <File>C:/Users/ShyotaTanaka/Desktop/Action_11/Action_11/Content/player_idle_1.png</File>
+    <File>C:/Users/ShyotaTanaka/Desktop/Action_11/Action_11/Content/ice_magic_l.png</File>
+    <File>C:/Users/ShyotaTanaka/Desktop/Action_11/Action_11/Content/ice_magic.png</File>
+  </SourceFiles>
+</SourceFileCollection>
